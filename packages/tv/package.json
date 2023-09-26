@@ -1,5 +1,5 @@
 {
-  "name": "@config-plugins/tv",
+  "name": "@douglowder/config-tv",
   "version": "0.0.1",
   "description": "Config plugin to reconfigure native directories for TV development if needed",
   "main": "build/withTV.js",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/expo/config-plugins.git",
+    "url": "https://github.com/douglowder/config-plugins.git",
     "directory": "packages/tv"
   },
   "scripts": {
